@@ -15,7 +15,7 @@ Base:
 ![](https://geps.dev/progress/12?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
 - [ ] Bezpieczny Programista - Kacper Szurek --->
-![](https://geps.dev/progress/5?dangerColor=800000&warningColor=ff9900&successColor=006600)
+![](https://geps.dev/progress/11?dangerColor=800000&warningColor=ff9900&successColor=006600)
 - [ ] eWPTX v2
 
 
