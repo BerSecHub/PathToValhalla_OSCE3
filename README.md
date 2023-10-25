@@ -7,7 +7,8 @@ Base:
 
 ### OSEP
 - [x] HTB Academy: Introduction to Active Directory - [HacktheBox Academy](https://academy.hackthebox.com/module/details/74)
-- [ ] [Conda YT](https://www.youtube.com/watch?v=Bm3mihQNGI4&list=PLDrNMcTNhhYqZj7WZt2GfNhBDqBnhW6AT) Active Directory 
+- [ ] [Conda YT](https://www.youtube.com/watch?v=Bm3mihQNGI4&list=PLDrNMcTNhhYqZj7WZt2GfNhBDqBnhW6AT) Active Directory
+- [ ] TryHackMe - [Wreath](https://tryhackme.com/signup?referrer=609d52e047b001004180cfab)
 
 
 ### OSEP
@@ -15,7 +16,7 @@ Base:
 ![](https://geps.dev/progress/14?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
 - [ ] Bezpieczny Programista - Kacper Szurek --->
-![](https://geps.dev/progress/21?dangerColor=800000&warningColor=ff9900&successColor=006600)
+![](https://geps.dev/progress/23?dangerColor=800000&warningColor=ff9900&successColor=006600)
 - [ ] eWPTX v2
 
 
