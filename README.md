@@ -16,10 +16,10 @@ Base:
 ### OSEP
 - [ ] PortSwigger Web Security Academy) --->
 ![](https://geps.dev/progress/26?dangerColor=800000&warningColor=ff9900&successColor=006600)
-
 - [ ] Bezpieczny Programista - Kacper Szurek --->
 ![](https://geps.dev/progress/97?dangerColor=800000&warningColor=ff9900&successColor=006600)
 - [ ] eWPTX v2
+- [ ] Kurs ataków XSS (http://xss.niebezpiecznik.pl/) ---> ![](https://geps.dev/progress/87?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
 
 ### OSED
