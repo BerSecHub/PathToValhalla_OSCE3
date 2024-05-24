@@ -19,7 +19,7 @@ Base:
 - [ ] Bezpieczny Programista - Kacper Szurek --->
 ![](https://geps.dev/progress/97?dangerColor=800000&warningColor=ff9900&successColor=006600)
 - [ ] eWPTX v2
-- [x] Kurs ataków XSS (http://xss.niebezpiecznik.pl/) ---> ![](https://geps.dev/progress/100?dangerColor=800000&warningColor=ff9900&successColor=006600)
+- [x] Kurs ataków XSS (http://xss.niebezpiecznik.pl/)
 
 
 ### OSED
