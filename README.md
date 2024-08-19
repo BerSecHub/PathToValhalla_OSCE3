@@ -10,7 +10,7 @@ Base:
 - [ ] [Conda YT](https://www.youtube.com/watch?v=Bm3mihQNGI4&list=PLDrNMcTNhhYqZj7WZt2GfNhBDqBnhW6AT) Active Directory
 - [x] TryHackMe - [Wreath](https://tryhackme.com/signup?referrer=609d52e047b001004180cfab)
 - [x] Dante - Pro Labs - [HackTheBox](https://www.linkedin.com/posts/activity-7135369572257255425-NzIw?utm_source=share&utm_medium=member_desktop) 
-
+- [ ] HTB Academy: Active Directory Enumeration & Attacks [HackTheBox Academy](https://academy.hackthebox.com/module/details/143)
 
 
 ### OSEP
@@ -20,6 +20,7 @@ Base:
 ![](https://geps.dev/progress/97?dangerColor=800000&warningColor=ff9900&successColor=006600)
 - [ ] eWPTX v2
 - [x] Kurs ataków XSS (http://xss.niebezpiecznik.pl/)
+- [ ] Od 0 do Pentestera  ----> ![](https://geps.dev/progress/8?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
 
 ### OSED
