@@ -25,4 +25,4 @@ Base:
 
 ### OSED
 - [ ] HTB Academy: Intro to Binary Exploitation - [HacktheBox Academy](https://academy.hackthebox.com/module/details/74)
-- [ ] RE+ASM [Sekurak](https://sklep.securitum.pl/zobacz-reversing-na-zywo)
+- [ ] RE+ASM - [Sekurak](https://sklep.securitum.pl/zobacz-reversing-na-zywo)
