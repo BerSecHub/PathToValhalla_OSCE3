@@ -20,7 +20,7 @@ Base:
 ![](https://geps.dev/progress/97?dangerColor=800000&warningColor=ff9900&successColor=006600)
 - [ ] eWPTX v2
 - [x] Kurs ataków XSS (http://xss.niebezpiecznik.pl/)
-- [ ] Od 0 do Pentestera  ----> ![](https://geps.dev/progress/8?dangerColor=800000&warningColor=ff9900&successColor=006600)
+- [ ] Od 0 do Pentestera  ----> ![](https://geps.dev/progress/13?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
 
 ### OSED
